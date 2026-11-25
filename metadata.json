@@ -1,0 +1,8 @@
+{
+  "name": "Škoda Auto – Měření zraku & Dioptrické brýle",
+  "description": "Automatický plánovač vyšetření zraku zaměstnanců na halách areálu Škoda Auto a návazné výroby pracovních dioptrických brýlí.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
